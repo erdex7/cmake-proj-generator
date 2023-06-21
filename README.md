@@ -25,7 +25,7 @@ Just clone the repository or download the ```cmake_empty_proj.py``` file and run
 ```
 python3 cmake_empty_proj.py
 ```
-Unit testing is disabled by default. You can enable it by setting the CMake boolean option PROJ_TESTING to ON.
+Unit testing is disabled by default. You can enable it by setting the CMake boolean option ```PROJ_TESTING``` to ```ON```.
 
 ## Requirements
 
